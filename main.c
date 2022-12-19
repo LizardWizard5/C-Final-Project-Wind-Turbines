@@ -111,6 +111,7 @@ int main(void) {
 
   // frees the memory
   //free(arrData);
+  //free(summaryData);
   free(t);
   return 0;
 }
